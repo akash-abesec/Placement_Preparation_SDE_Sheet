@@ -1,0 +1,6 @@
+- Search in a 2 D matrix
+- Pow(x, n)
+- Majority Element (>n/2 times)
+- Majority Element (n/3 times)
+- Grid Unique Paths
+- Reverse Pairs (Leetcode)
