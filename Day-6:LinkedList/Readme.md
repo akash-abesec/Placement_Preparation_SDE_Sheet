@@ -1,0 +1,6 @@
+- Reverse a LinkedList
+- Find the middle of LinkedList
+- Merge two sorted Linked List (use method used in mergeSort)
+- Remove N-th node from back of LinkedList
+- Add two numbers as LinkedList
+- Delete a given Node when a node is given.(0(1) solution)
