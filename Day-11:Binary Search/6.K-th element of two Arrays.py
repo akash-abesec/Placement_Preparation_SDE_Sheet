@@ -2,7 +2,7 @@
 
 # Solution :- https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67
 
-# ----------- Solution :-1-----------------
+# ----------- Solution :-1--------------------
 
 
 class Solution:
